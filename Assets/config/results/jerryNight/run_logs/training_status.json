@@ -1,0 +1,65 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 13499964,
+                "file_path": "results\\jerryNight\\Mouse\\Mouse-13499964.onnx",
+                "reward": 2707.8952976942064,
+                "creation_time": 1670651356.8275888,
+                "auxillary_file_paths": [
+                    "results\\jerryNight\\Mouse\\Mouse-13499964.pt"
+                ]
+            },
+            {
+                "steps": 13999980,
+                "file_path": "results\\jerryNight\\Mouse\\Mouse-13999980.onnx",
+                "reward": 1894.8830094082016,
+                "creation_time": 1670652125.1542811,
+                "auxillary_file_paths": [
+                    "results\\jerryNight\\Mouse\\Mouse-13999980.pt"
+                ]
+            },
+            {
+                "steps": 14499971,
+                "file_path": "results\\jerryNight\\Mouse\\Mouse-14499971.onnx",
+                "reward": 2944.7574248313904,
+                "creation_time": 1670652897.3334212,
+                "auxillary_file_paths": [
+                    "results\\jerryNight\\Mouse\\Mouse-14499971.pt"
+                ]
+            },
+            {
+                "steps": 14999946,
+                "file_path": "results\\jerryNight\\Mouse\\Mouse-14999946.onnx",
+                "reward": 2945.01859386762,
+                "creation_time": 1670653665.732183,
+                "auxillary_file_paths": [
+                    "results\\jerryNight\\Mouse\\Mouse-14999946.pt"
+                ]
+            },
+            {
+                "steps": 15000010,
+                "file_path": "results\\jerryNight\\Mouse\\Mouse-15000010.onnx",
+                "reward": 2945.01859386762,
+                "creation_time": 1670653665.792382,
+                "auxillary_file_paths": [
+                    "results\\jerryNight\\Mouse\\Mouse-15000010.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15000010,
+            "file_path": "results\\jerryNight\\Mouse.onnx",
+            "reward": 2945.01859386762,
+            "creation_time": 1670653665.792382,
+            "auxillary_file_paths": [
+                "results\\jerryNight\\Mouse\\Mouse-15000010.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

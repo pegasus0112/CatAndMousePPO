@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 3499936,
+                "file_path": "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-3499936.onnx",
+                "reward": -183.08781014989924,
+                "creation_time": 1670597230.2659314,
+                "auxillary_file_paths": [
+                    "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-3499936.pt"
+                ]
+            },
+            {
+                "steps": 3999968,
+                "file_path": "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-3999968.onnx",
+                "reward": -88.42060554910589,
+                "creation_time": 1670597848.71008,
+                "auxillary_file_paths": [
+                    "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-3999968.pt"
+                ]
+            },
+            {
+                "steps": 4499968,
+                "file_path": "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-4499968.onnx",
+                "reward": -26.473388846103962,
+                "creation_time": 1670598446.9856195,
+                "auxillary_file_paths": [
+                    "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-4499968.pt"
+                ]
+            },
+            {
+                "steps": 4999936,
+                "file_path": "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-4999936.onnx",
+                "reward": 26.58941402700212,
+                "creation_time": 1670599052.6699934,
+                "auxillary_file_paths": [
+                    "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-4999936.pt"
+                ]
+            },
+            {
+                "steps": 5000256,
+                "file_path": "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-5000256.onnx",
+                "reward": 26.58941402700212,
+                "creation_time": 1670599052.7303748,
+                "auxillary_file_paths": [
+                    "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-5000256.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000256,
+            "file_path": "results\\constantLearningRateWithWorkingSettings\\Cat.onnx",
+            "reward": 26.58941402700212,
+            "creation_time": 1670599052.7303748,
+            "auxillary_file_paths": [
+                "results\\constantLearningRateWithWorkingSettings\\Cat\\Cat-5000256.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

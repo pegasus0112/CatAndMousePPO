@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 3499968,
+                "file_path": "results\\schroedingerChangedConfig01\\Cat\\Cat-3499968.onnx",
+                "reward": 39.25,
+                "creation_time": 1670500857.0570333,
+                "auxillary_file_paths": [
+                    "results\\schroedingerChangedConfig01\\Cat\\Cat-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3999936,
+                "file_path": "results\\schroedingerChangedConfig01\\Cat\\Cat-3999936.onnx",
+                "reward": 50.25,
+                "creation_time": 1670501648.127047,
+                "auxillary_file_paths": [
+                    "results\\schroedingerChangedConfig01\\Cat\\Cat-3999936.pt"
+                ]
+            },
+            {
+                "steps": 4499968,
+                "file_path": "results\\schroedingerChangedConfig01\\Cat\\Cat-4499968.onnx",
+                "reward": 53.0,
+                "creation_time": 1670502415.1222186,
+                "auxillary_file_paths": [
+                    "results\\schroedingerChangedConfig01\\Cat\\Cat-4499968.pt"
+                ]
+            },
+            {
+                "steps": 4999936,
+                "file_path": "results\\schroedingerChangedConfig01\\Cat\\Cat-4999936.onnx",
+                "reward": 57.583333333333336,
+                "creation_time": 1670503174.5685863,
+                "auxillary_file_paths": [
+                    "results\\schroedingerChangedConfig01\\Cat\\Cat-4999936.pt"
+                ]
+            },
+            {
+                "steps": 5000064,
+                "file_path": "results\\schroedingerChangedConfig01\\Cat\\Cat-5000064.onnx",
+                "reward": 57.583333333333336,
+                "creation_time": 1670503174.6158686,
+                "auxillary_file_paths": [
+                    "results\\schroedingerChangedConfig01\\Cat\\Cat-5000064.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000064,
+            "file_path": "results\\schroedingerChangedConfig01\\Cat.onnx",
+            "reward": 57.583333333333336,
+            "creation_time": 1670503174.6158686,
+            "auxillary_file_paths": [
+                "results\\schroedingerChangedConfig01\\Cat\\Cat-5000064.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

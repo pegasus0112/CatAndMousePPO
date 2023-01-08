@@ -1,0 +1,51 @@
+{
+    "Cat1": {
+        "checkpoints": [
+            {
+                "steps": 13056,
+                "file_path": "results\\labyrinthPPO1\\Cat1\\Cat1-13056.onnx",
+                "reward": null,
+                "creation_time": 1670702375.8650265,
+                "auxillary_file_paths": [
+                    "results\\labyrinthPPO1\\Cat1\\Cat1-13056.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13056,
+            "file_path": "results\\labyrinthPPO1\\Cat1.onnx",
+            "reward": null,
+            "creation_time": 1670702375.8650265,
+            "auxillary_file_paths": [
+                "results\\labyrinthPPO1\\Cat1\\Cat1-13056.pt"
+            ]
+        }
+    },
+    "Mouse2": {
+        "checkpoints": [
+            {
+                "steps": 13056,
+                "file_path": "results\\labyrinthPPO1\\Mouse2\\Mouse2-13056.onnx",
+                "reward": null,
+                "creation_time": 1670702375.900837,
+                "auxillary_file_paths": [
+                    "results\\labyrinthPPO1\\Mouse2\\Mouse2-13056.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 13056,
+            "file_path": "results\\labyrinthPPO1\\Mouse2.onnx",
+            "reward": null,
+            "creation_time": 1670702375.900837,
+            "auxillary_file_paths": [
+                "results\\labyrinthPPO1\\Mouse2\\Mouse2-13056.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

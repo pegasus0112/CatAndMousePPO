@@ -1,0 +1,123 @@
+{
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 13499959,
+                "file_path": "results\\JoinedTrainingNew\\Mouse\\Mouse-13499959.onnx",
+                "reward": 43.06939579820633,
+                "creation_time": 1670707984.5773764,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Mouse\\Mouse-13499959.pt"
+                ]
+            },
+            {
+                "steps": 13999959,
+                "file_path": "results\\JoinedTrainingNew\\Mouse\\Mouse-13999959.onnx",
+                "reward": 43.97978915677465,
+                "creation_time": 1670708927.779783,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Mouse\\Mouse-13999959.pt"
+                ]
+            },
+            {
+                "steps": 14499990,
+                "file_path": "results\\JoinedTrainingNew\\Mouse\\Mouse-14499990.onnx",
+                "reward": 41.38769232438161,
+                "creation_time": 1670709878.420167,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Mouse\\Mouse-14499990.pt"
+                ]
+            },
+            {
+                "steps": 14999992,
+                "file_path": "results\\JoinedTrainingNew\\Mouse\\Mouse-14999992.onnx",
+                "reward": 43.90820765726401,
+                "creation_time": 1670710816.820991,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Mouse\\Mouse-14999992.pt"
+                ]
+            },
+            {
+                "steps": 15000056,
+                "file_path": "results\\JoinedTrainingNew\\Mouse\\Mouse-15000056.onnx",
+                "reward": 43.90820765726401,
+                "creation_time": 1670710816.9218638,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Mouse\\Mouse-15000056.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15000056,
+            "file_path": "results\\JoinedTrainingNew\\Mouse.onnx",
+            "reward": 43.90820765726401,
+            "creation_time": 1670710816.9218638,
+            "auxillary_file_paths": [
+                "results\\JoinedTrainingNew\\Mouse\\Mouse-15000056.pt"
+            ]
+        }
+    },
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 13499959,
+                "file_path": "results\\JoinedTrainingNew\\Cat\\Cat-13499959.onnx",
+                "reward": -8.161722967147828,
+                "creation_time": 1670707984.6114614,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Cat\\Cat-13499959.pt"
+                ]
+            },
+            {
+                "steps": 13999959,
+                "file_path": "results\\JoinedTrainingNew\\Cat\\Cat-13999959.onnx",
+                "reward": -8.588528911530295,
+                "creation_time": 1670708927.8234692,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Cat\\Cat-13999959.pt"
+                ]
+            },
+            {
+                "steps": 14499990,
+                "file_path": "results\\JoinedTrainingNew\\Cat\\Cat-14499990.onnx",
+                "reward": -7.96110594694431,
+                "creation_time": 1670709878.3882513,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Cat\\Cat-14499990.pt"
+                ]
+            },
+            {
+                "steps": 14999992,
+                "file_path": "results\\JoinedTrainingNew\\Cat\\Cat-14999992.onnx",
+                "reward": -8.584805872598256,
+                "creation_time": 1670710816.854223,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Cat\\Cat-14999992.pt"
+                ]
+            },
+            {
+                "steps": 15000056,
+                "file_path": "results\\JoinedTrainingNew\\Cat\\Cat-15000056.onnx",
+                "reward": -8.584805872598256,
+                "creation_time": 1670710817.0199196,
+                "auxillary_file_paths": [
+                    "results\\JoinedTrainingNew\\Cat\\Cat-15000056.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15000056,
+            "file_path": "results\\JoinedTrainingNew\\Cat.onnx",
+            "reward": -8.584805872598256,
+            "creation_time": 1670710817.0199196,
+            "auxillary_file_paths": [
+                "results\\JoinedTrainingNew\\Cat\\Cat-15000056.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

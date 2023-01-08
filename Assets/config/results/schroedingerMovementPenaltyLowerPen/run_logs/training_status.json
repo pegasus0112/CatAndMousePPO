@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 3499968,
+                "file_path": "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-3499968.onnx",
+                "reward": -109.65876647084951,
+                "creation_time": 1670540919.29762,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3999936,
+                "file_path": "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-3999936.onnx",
+                "reward": -101.93329125146072,
+                "creation_time": 1670541686.4231434,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-3999936.pt"
+                ]
+            },
+            {
+                "steps": 4499968,
+                "file_path": "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-4499968.onnx",
+                "reward": -95.71410721043746,
+                "creation_time": 1670542455.6406267,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-4499968.pt"
+                ]
+            },
+            {
+                "steps": 4999936,
+                "file_path": "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-4999936.onnx",
+                "reward": -86.74546910325687,
+                "creation_time": 1670543225.8262591,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-4999936.pt"
+                ]
+            },
+            {
+                "steps": 5000064,
+                "file_path": "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-5000064.onnx",
+                "reward": -86.74546910325687,
+                "creation_time": 1670543225.8755488,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-5000064.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000064,
+            "file_path": "results\\schroedingerMovementPenaltyLowerPen\\Cat.onnx",
+            "reward": -86.74546910325687,
+            "creation_time": 1670543225.8755488,
+            "auxillary_file_paths": [
+                "results\\schroedingerMovementPenaltyLowerPen\\Cat\\Cat-5000064.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

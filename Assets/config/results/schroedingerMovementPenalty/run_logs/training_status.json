@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 1499968,
+                "file_path": "results\\schroedingerMovementPenalty\\Cat\\Cat-1499968.onnx",
+                "reward": -294.730768541495,
+                "creation_time": 1670532901.4311414,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenalty\\Cat\\Cat-1499968.pt"
+                ]
+            },
+            {
+                "steps": 1999936,
+                "file_path": "results\\schroedingerMovementPenalty\\Cat\\Cat-1999936.onnx",
+                "reward": -276.2014568820596,
+                "creation_time": 1670533653.3175337,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenalty\\Cat\\Cat-1999936.pt"
+                ]
+            },
+            {
+                "steps": 2499968,
+                "file_path": "results\\schroedingerMovementPenalty\\Cat\\Cat-2499968.onnx",
+                "reward": -262.20158895601827,
+                "creation_time": 1670534405.8096533,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenalty\\Cat\\Cat-2499968.pt"
+                ]
+            },
+            {
+                "steps": 2999968,
+                "file_path": "results\\schroedingerMovementPenalty\\Cat\\Cat-2999968.onnx",
+                "reward": -252.4415796580522,
+                "creation_time": 1670535161.8991647,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenalty\\Cat\\Cat-2999968.pt"
+                ]
+            },
+            {
+                "steps": 3178752,
+                "file_path": "results\\schroedingerMovementPenalty\\Cat\\Cat-3178752.onnx",
+                "reward": -250.0049740738339,
+                "creation_time": 1670535439.6987622,
+                "auxillary_file_paths": [
+                    "results\\schroedingerMovementPenalty\\Cat\\Cat-3178752.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3178752,
+            "file_path": "results\\schroedingerMovementPenalty\\Cat.onnx",
+            "reward": -250.0049740738339,
+            "creation_time": 1670535439.6987622,
+            "auxillary_file_paths": [
+                "results\\schroedingerMovementPenalty\\Cat\\Cat-3178752.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

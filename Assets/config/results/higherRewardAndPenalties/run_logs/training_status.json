@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 3499968,
+                "file_path": "results\\higherRewardAndPenalties\\Cat\\Cat-3499968.onnx",
+                "reward": -312.46794405579567,
+                "creation_time": 1670582383.9975963,
+                "auxillary_file_paths": [
+                    "results\\higherRewardAndPenalties\\Cat\\Cat-3499968.pt"
+                ]
+            },
+            {
+                "steps": 3999936,
+                "file_path": "results\\higherRewardAndPenalties\\Cat\\Cat-3999936.onnx",
+                "reward": -278.5718065649271,
+                "creation_time": 1670583225.168399,
+                "auxillary_file_paths": [
+                    "results\\higherRewardAndPenalties\\Cat\\Cat-3999936.pt"
+                ]
+            },
+            {
+                "steps": 4499968,
+                "file_path": "results\\higherRewardAndPenalties\\Cat\\Cat-4499968.onnx",
+                "reward": -255.34033009409904,
+                "creation_time": 1670584042.6511858,
+                "auxillary_file_paths": [
+                    "results\\higherRewardAndPenalties\\Cat\\Cat-4499968.pt"
+                ]
+            },
+            {
+                "steps": 4999936,
+                "file_path": "results\\higherRewardAndPenalties\\Cat\\Cat-4999936.onnx",
+                "reward": -245.58843954404196,
+                "creation_time": 1670584873.8407838,
+                "auxillary_file_paths": [
+                    "results\\higherRewardAndPenalties\\Cat\\Cat-4999936.pt"
+                ]
+            },
+            {
+                "steps": 5000064,
+                "file_path": "results\\higherRewardAndPenalties\\Cat\\Cat-5000064.onnx",
+                "reward": -245.58843954404196,
+                "creation_time": 1670584873.8890557,
+                "auxillary_file_paths": [
+                    "results\\higherRewardAndPenalties\\Cat\\Cat-5000064.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000064,
+            "file_path": "results\\higherRewardAndPenalties\\Cat.onnx",
+            "reward": -245.58843954404196,
+            "creation_time": 1670584873.8890557,
+            "auxillary_file_paths": [
+                "results\\higherRewardAndPenalties\\Cat\\Cat-5000064.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

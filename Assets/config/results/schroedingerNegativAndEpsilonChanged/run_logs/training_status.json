@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 3499962,
+                "file_path": "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-3499962.onnx",
+                "reward": 49.500001894465335,
+                "creation_time": 1670510462.277923,
+                "auxillary_file_paths": [
+                    "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-3499962.pt"
+                ]
+            },
+            {
+                "steps": 3999994,
+                "file_path": "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-3999994.onnx",
+                "reward": 59.41666894918308,
+                "creation_time": 1670511222.4124541,
+                "auxillary_file_paths": [
+                    "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-3999994.pt"
+                ]
+            },
+            {
+                "steps": 4499962,
+                "file_path": "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-4499962.onnx",
+                "reward": 63.58333569051077,
+                "creation_time": 1670511986.8005543,
+                "auxillary_file_paths": [
+                    "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-4499962.pt"
+                ]
+            },
+            {
+                "steps": 4999994,
+                "file_path": "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-4999994.onnx",
+                "reward": 67.58333563928802,
+                "creation_time": 1670512762.671901,
+                "auxillary_file_paths": [
+                    "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-4999994.pt"
+                ]
+            },
+            {
+                "steps": 5000058,
+                "file_path": "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-5000058.onnx",
+                "reward": 67.58333563928802,
+                "creation_time": 1670512762.728414,
+                "auxillary_file_paths": [
+                    "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-5000058.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000058,
+            "file_path": "results\\schroedingerNegativAndEpsilonChanged\\Cat.onnx",
+            "reward": 67.58333563928802,
+            "creation_time": 1670512762.728414,
+            "auxillary_file_paths": [
+                "results\\schroedingerNegativAndEpsilonChanged\\Cat\\Cat-5000058.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

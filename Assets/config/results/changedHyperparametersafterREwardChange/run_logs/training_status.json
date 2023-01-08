@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 499968,
+                "file_path": "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-499968.onnx",
+                "reward": null,
+                "creation_time": 1670589294.8592308,
+                "auxillary_file_paths": [
+                    "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-499968.pt"
+                ]
+            },
+            {
+                "steps": 999936,
+                "file_path": "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-999936.onnx",
+                "reward": null,
+                "creation_time": 1670590097.7452595,
+                "auxillary_file_paths": [
+                    "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-999936.pt"
+                ]
+            },
+            {
+                "steps": 1499968,
+                "file_path": "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-1499968.onnx",
+                "reward": null,
+                "creation_time": 1670590882.8035624,
+                "auxillary_file_paths": [
+                    "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-1499968.pt"
+                ]
+            },
+            {
+                "steps": 1999936,
+                "file_path": "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-1999936.onnx",
+                "reward": null,
+                "creation_time": 1670591631.0811405,
+                "auxillary_file_paths": [
+                    "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-1999936.pt"
+                ]
+            },
+            {
+                "steps": 2259840,
+                "file_path": "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-2259840.onnx",
+                "reward": -387.89556217193604,
+                "creation_time": 1670592117.480156,
+                "auxillary_file_paths": [
+                    "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-2259840.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2259840,
+            "file_path": "results\\changedHyperparametersafterREwardChange\\Cat.onnx",
+            "reward": -387.89556217193604,
+            "creation_time": 1670592117.480156,
+            "auxillary_file_paths": [
+                "results\\changedHyperparametersafterREwardChange\\Cat\\Cat-2259840.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

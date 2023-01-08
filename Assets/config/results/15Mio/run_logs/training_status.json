@@ -1,0 +1,65 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 13499968,
+                "file_path": "results\\15Mio\\Cat\\Cat-13499968.onnx",
+                "reward": 281.0497503350763,
+                "creation_time": 1670617220.7901196,
+                "auxillary_file_paths": [
+                    "results\\15Mio\\Cat\\Cat-13499968.pt"
+                ]
+            },
+            {
+                "steps": 13999936,
+                "file_path": "results\\15Mio\\Cat\\Cat-13999936.onnx",
+                "reward": 270.7759315835105,
+                "creation_time": 1670617856.0560472,
+                "auxillary_file_paths": [
+                    "results\\15Mio\\Cat\\Cat-13999936.pt"
+                ]
+            },
+            {
+                "steps": 14499968,
+                "file_path": "results\\15Mio\\Cat\\Cat-14499968.onnx",
+                "reward": 293.36764464113446,
+                "creation_time": 1670618495.317048,
+                "auxillary_file_paths": [
+                    "results\\15Mio\\Cat\\Cat-14499968.pt"
+                ]
+            },
+            {
+                "steps": 14999936,
+                "file_path": "results\\15Mio\\Cat\\Cat-14999936.onnx",
+                "reward": 299.22819426324634,
+                "creation_time": 1670619127.5219586,
+                "auxillary_file_paths": [
+                    "results\\15Mio\\Cat\\Cat-14999936.pt"
+                ]
+            },
+            {
+                "steps": 15000192,
+                "file_path": "results\\15Mio\\Cat\\Cat-15000192.onnx",
+                "reward": 299.22819426324634,
+                "creation_time": 1670619127.58151,
+                "auxillary_file_paths": [
+                    "results\\15Mio\\Cat\\Cat-15000192.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 15000192,
+            "file_path": "results\\15Mio\\Cat.onnx",
+            "reward": 299.22819426324634,
+            "creation_time": 1670619127.58151,
+            "auxillary_file_paths": [
+                "results\\15Mio\\Cat\\Cat-15000192.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
