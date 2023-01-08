@@ -1,0 +1,69 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 499944,
+                "file_path": "results\\finalMaze04\\Cat\\Cat-499944.onnx",
+                "reward": -22.895578511696648,
+                "creation_time": 1673171561.0415545,
+                "auxillary_file_paths": [
+                    "results\\finalMaze04\\Cat\\Cat-499944.pt"
+                ]
+            },
+            {
+                "steps": 978318,
+                "file_path": "results\\finalMaze04\\Cat\\Cat-978318.onnx",
+                "reward": -23.765309967376567,
+                "creation_time": 1673172577.8852897,
+                "auxillary_file_paths": [
+                    "results\\finalMaze04\\Cat\\Cat-978318.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 978318,
+            "file_path": "results\\finalMaze04\\Cat.onnx",
+            "reward": -23.765309967376567,
+            "creation_time": 1673172577.8852897,
+            "auxillary_file_paths": [
+                "results\\finalMaze04\\Cat\\Cat-978318.pt"
+            ]
+        }
+    },
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 499950,
+                "file_path": "results\\finalMaze04\\Mouse\\Mouse-499950.onnx",
+                "reward": 86.36457536319013,
+                "creation_time": 1673171592.4245372,
+                "auxillary_file_paths": [
+                    "results\\finalMaze04\\Mouse\\Mouse-499950.pt"
+                ]
+            },
+            {
+                "steps": 970923,
+                "file_path": "results\\finalMaze04\\Mouse\\Mouse-970923.onnx",
+                "reward": 93.17898911129345,
+                "creation_time": 1673172577.9324985,
+                "auxillary_file_paths": [
+                    "results\\finalMaze04\\Mouse\\Mouse-970923.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 970923,
+            "file_path": "results\\finalMaze04\\Mouse.onnx",
+            "reward": 93.17898911129345,
+            "creation_time": 1673172577.9324985,
+            "auxillary_file_paths": [
+                "results\\finalMaze04\\Mouse\\Mouse-970923.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

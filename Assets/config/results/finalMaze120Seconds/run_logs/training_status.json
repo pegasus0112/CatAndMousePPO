@@ -1,0 +1,123 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 999945,
+                "file_path": "results\\finalMaze120Seconds\\Cat\\Cat-999945.onnx",
+                "reward": -85.76255655562741,
+                "creation_time": 1673174583.1165178,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Cat\\Cat-999945.pt"
+                ]
+            },
+            {
+                "steps": 1499979,
+                "file_path": "results\\finalMaze120Seconds\\Cat\\Cat-1499979.onnx",
+                "reward": -81.24190504494167,
+                "creation_time": 1673175605.5109508,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Cat\\Cat-1499979.pt"
+                ]
+            },
+            {
+                "steps": 1999958,
+                "file_path": "results\\finalMaze120Seconds\\Cat\\Cat-1999958.onnx",
+                "reward": -78.73303016203064,
+                "creation_time": 1673176625.667971,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Cat\\Cat-1999958.pt"
+                ]
+            },
+            {
+                "steps": 2154498,
+                "file_path": "results\\finalMaze120Seconds\\Cat\\Cat-2154498.onnx",
+                "reward": -78.49026548117399,
+                "creation_time": 1673176972.0170596,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Cat\\Cat-2154498.pt"
+                ]
+            },
+            {
+                "steps": 2178924,
+                "file_path": "results\\finalMaze120Seconds\\Cat\\Cat-2178924.onnx",
+                "reward": -64.05929506392707,
+                "creation_time": 1673177079.8578053,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Cat\\Cat-2178924.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2178924,
+            "file_path": "results\\finalMaze120Seconds\\Cat.onnx",
+            "reward": -64.05929506392707,
+            "creation_time": 1673177079.8578053,
+            "auxillary_file_paths": [
+                "results\\finalMaze120Seconds\\Cat\\Cat-2178924.pt"
+            ]
+        }
+    },
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 999942,
+                "file_path": "results\\finalMaze120Seconds\\Mouse\\Mouse-999942.onnx",
+                "reward": 331.75841588633403,
+                "creation_time": 1673174667.8892403,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Mouse\\Mouse-999942.pt"
+                ]
+            },
+            {
+                "steps": 1499952,
+                "file_path": "results\\finalMaze120Seconds\\Mouse\\Mouse-1499952.onnx",
+                "reward": 312.4852193345626,
+                "creation_time": 1673175725.7387087,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Mouse\\Mouse-1499952.pt"
+                ]
+            },
+            {
+                "steps": 1999980,
+                "file_path": "results\\finalMaze120Seconds\\Mouse\\Mouse-1999980.onnx",
+                "reward": 316.6291208465894,
+                "creation_time": 1673176775.39169,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Mouse\\Mouse-1999980.pt"
+                ]
+            },
+            {
+                "steps": 2067409,
+                "file_path": "results\\finalMaze120Seconds\\Mouse\\Mouse-2067409.onnx",
+                "reward": 276.1237442916718,
+                "creation_time": 1673176972.1178646,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Mouse\\Mouse-2067409.pt"
+                ]
+            },
+            {
+                "steps": 2090146,
+                "file_path": "results\\finalMaze120Seconds\\Mouse\\Mouse-2090146.onnx",
+                "reward": 218.8671576895497,
+                "creation_time": 1673177079.8200023,
+                "auxillary_file_paths": [
+                    "results\\finalMaze120Seconds\\Mouse\\Mouse-2090146.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2090146,
+            "file_path": "results\\finalMaze120Seconds\\Mouse.onnx",
+            "reward": 218.8671576895497,
+            "creation_time": 1673177079.8200023,
+            "auxillary_file_paths": [
+                "results\\finalMaze120Seconds\\Mouse\\Mouse-2090146.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

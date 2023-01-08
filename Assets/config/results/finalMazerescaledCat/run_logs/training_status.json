@@ -1,0 +1,123 @@
+{
+    "Cat": {
+        "checkpoints": [
+            {
+                "steps": 10499954,
+                "file_path": "results\\finalMazerescaledCat\\Cat\\Cat-10499954.onnx",
+                "reward": -54.29092061218985,
+                "creation_time": 1673197307.9528663,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Cat\\Cat-10499954.pt"
+                ]
+            },
+            {
+                "steps": 10999987,
+                "file_path": "results\\finalMazerescaledCat\\Cat\\Cat-10999987.onnx",
+                "reward": -48.650702737271786,
+                "creation_time": 1673198301.242975,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Cat\\Cat-10999987.pt"
+                ]
+            },
+            {
+                "steps": 11499988,
+                "file_path": "results\\finalMazerescaledCat\\Cat\\Cat-11499988.onnx",
+                "reward": -48.522332204430086,
+                "creation_time": 1673199277.1695697,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Cat\\Cat-11499988.pt"
+                ]
+            },
+            {
+                "steps": 11999950,
+                "file_path": "results\\finalMazerescaledCat\\Cat\\Cat-11999950.onnx",
+                "reward": -44.55657357438689,
+                "creation_time": 1673200242.9127133,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Cat\\Cat-11999950.pt"
+                ]
+            },
+            {
+                "steps": 12449706,
+                "file_path": "results\\finalMazerescaledCat\\Cat\\Cat-12449706.onnx",
+                "reward": -47.89000443062361,
+                "creation_time": 1673201114.7412992,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Cat\\Cat-12449706.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 12449706,
+            "file_path": "results\\finalMazerescaledCat\\Cat.onnx",
+            "reward": -47.89000443062361,
+            "creation_time": 1673201114.7412992,
+            "auxillary_file_paths": [
+                "results\\finalMazerescaledCat\\Cat\\Cat-12449706.pt"
+            ]
+        }
+    },
+    "Mouse": {
+        "checkpoints": [
+            {
+                "steps": 9499994,
+                "file_path": "results\\finalMazerescaledCat\\Mouse\\Mouse-9499994.onnx",
+                "reward": 195.22983651915018,
+                "creation_time": 1673197160.725834,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Mouse\\Mouse-9499994.pt"
+                ]
+            },
+            {
+                "steps": 9999951,
+                "file_path": "results\\finalMazerescaledCat\\Mouse\\Mouse-9999951.onnx",
+                "reward": 219.7579575345272,
+                "creation_time": 1673198211.3990316,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Mouse\\Mouse-9999951.pt"
+                ]
+            },
+            {
+                "steps": 10499975,
+                "file_path": "results\\finalMazerescaledCat\\Mouse\\Mouse-10499975.onnx",
+                "reward": 190.89681749412978,
+                "creation_time": 1673199277.0248592,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Mouse\\Mouse-10499975.pt"
+                ]
+            },
+            {
+                "steps": 10999955,
+                "file_path": "results\\finalMazerescaledCat\\Mouse\\Mouse-10999955.onnx",
+                "reward": 212.71810613269727,
+                "creation_time": 1673200330.1392574,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Mouse\\Mouse-10999955.pt"
+                ]
+            },
+            {
+                "steps": 11369586,
+                "file_path": "results\\finalMazerescaledCat\\Mouse\\Mouse-11369586.onnx",
+                "reward": 218.65818909636462,
+                "creation_time": 1673201114.8469365,
+                "auxillary_file_paths": [
+                    "results\\finalMazerescaledCat\\Mouse\\Mouse-11369586.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 11369586,
+            "file_path": "results\\finalMazerescaledCat\\Mouse.onnx",
+            "reward": 218.65818909636462,
+            "creation_time": 1673201114.8469365,
+            "auxillary_file_paths": [
+                "results\\finalMazerescaledCat\\Mouse\\Mouse-11369586.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

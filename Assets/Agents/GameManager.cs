@@ -10,7 +10,7 @@ public class GameManager : MonoBehaviour
     public Transform spawnPoints;
     [Space(10)]
     [Header("Settings")]
-    [Range(10, 60)] public float gameTime;
+    [Range(30, 600)] public float gameTime;
 
     float playedTime;
     float existingMice;

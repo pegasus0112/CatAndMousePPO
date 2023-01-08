@@ -91,7 +91,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6548244790874130390, guid: 2380de0307ded4d4abd45cb28a7d299d, type: 3}
       propertyPath: m_BehaviorName
-      value: Mouse2
+      value: Mouse
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8096842159820126738, guid: 2380de0307ded4d4abd45cb28a7d299d, type: 3}
@@ -184,7 +184,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6548244790874130390, guid: 2380de0307ded4d4abd45cb28a7d299d, type: 3}
       propertyPath: m_BehaviorName
-      value: Mouse2
+      value: Mouse
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8096842159820126738, guid: 2380de0307ded4d4abd45cb28a7d299d, type: 3}
@@ -277,7 +277,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6548244790874130390, guid: 2380de0307ded4d4abd45cb28a7d299d, type: 3}
       propertyPath: m_BehaviorName
-      value: Mouse2
+      value: Mouse
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 8096842159820126738, guid: 2380de0307ded4d4abd45cb28a7d299d, type: 3}
